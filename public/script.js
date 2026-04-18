@@ -19,7 +19,6 @@ for (let i = 1; i <= qtd; i++) {
 }
 let sobra = renda - total;
 let msg;
-
 if (total > renda) {
   msg = "Gastou mais do que ganhou";
 } else if (sobra >= renda * 0.3) {
@@ -27,7 +26,6 @@ if (total > renda) {
 } else {
   msg = " Pode melhorar";
 }
-
 alert(
   "Nome: " + nome +
   "\nRenda: " + renda.toFixed(2) +
