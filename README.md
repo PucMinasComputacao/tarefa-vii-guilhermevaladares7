@@ -5,12 +5,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Guilherme Ferreira Valadares
+- Matricula:914106
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  ![alt text](image.png) >>
 
 
 
